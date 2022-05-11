@@ -615,7 +615,7 @@ section {
   top: 10px;
 }
 .testimonials .testimonial-item p {
-  font-style: italic;
+  font-style:  ;
   margin: 0 auto 15px auto;
 }
 @media (min-width: 992px) {
