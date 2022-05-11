@@ -27,11 +27,6 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Raleway", sans-serif;
 }
 
-
-p {
- text-indent: 20px; /* Отступ первой строки в пикселах */
-}
-
 #main {
   margin-top: 50px;
 }
